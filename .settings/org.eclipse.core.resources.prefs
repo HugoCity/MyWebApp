@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//WebContent/login.jsp=UTF-8
+encoding//src/com/hwadee/entity/UserEntity.java=UTF-8
+encoding//src/com/hwadee/service/UserService.java=UTF-8
+encoding//src/com/hwadee/servlet/LoginServlet.java=UTF-8
+encoding//src/com/hwadee/servlet/MainSevlet.java=UTF-8
+encoding/<project>=UTF-8
+encoding/src=UTF-8
